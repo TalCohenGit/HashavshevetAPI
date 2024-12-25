@@ -15,7 +15,14 @@
     "WizcloudApiPrivateKey": "23e54b4b3e541261140bdeb257538ba11c5104620e61217d5d6735a3c9361a5aac67a7f85278e4e53f3008598d8927f68e89e3e16147c194f96976bdf3075d55",
     "WizcloudApiServer": "lb11.wizcloud.co.il",
     "WizcloudApiDBName": "wizdb2394n5"
-  },
+  },{
+    "key":"667d28a8a17c5ff3ae37a50a",
+    "Name": "ariya",
+    "Email": "ariya@gatavigdor.com",
+    "WizcloudApiPrivateKey": "23e54b4b3e541261140bdeb257538ba11c5104620e61217d5d6735a3c9361a5aac67a7f85278e4e53f3008598d8927f68e89e3e16147c194f96976bdf3075d55",
+    "WizcloudApiServer": "lb11.wizcloud.co.il",
+    "WizcloudApiDBName": "wizdb2394n7"
+  }
   {
     "Key": "6358f8717dd95eceee53eac3",
     "Name": "ofek",
