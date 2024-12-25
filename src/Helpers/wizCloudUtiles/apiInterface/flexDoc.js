@@ -5,6 +5,8 @@ const defultReports = require("./filencryption");
 const e = require("express");
 const realUserID = "6358f8717dd95eceee53eac3";
 
+const ariya = "667d28a8a17c5ff3ae37a50a";
+
 const amir = "638dac1454f08b935ed4af2f";
 const yafit = "638dad0c54f08b935ed4af34";
 
@@ -42,6 +44,8 @@ async function exportRecords(reqData, userID) {
     ID = amir;
   } else if (userID == yafit) {
     ID = yafit;
+  } else if (userID == ariya) {
+    ID = ariya;
   } else {
     ID = "1111";
   }
